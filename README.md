@@ -18,6 +18,8 @@ Touchpad | Working | I don't know model |
 HDMI | Working | Thanks to [semba90](https://www.reddit.com/r/hackintosh/comments/zf5m2g/comment/iza65jq/?utm_source=share&utm_medium=web2x&context=3) |
 USB Ports | Working | USB is mapped |
 OS | Working | MacOS 12 Monterey |
+Sleep | Not Working| Crashes macOS |
+DRM | Can Work | Works with unfairgva=7 but system is laggy |
 
 ## Setting Up 
 
